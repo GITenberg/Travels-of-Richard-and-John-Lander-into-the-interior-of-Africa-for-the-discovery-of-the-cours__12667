@@ -1,0 +1,35 @@
+_repo: Travels-of-Richard-and-John-Lander-into-the-interior-of-Africa-for-the-discovery-of-the-cours__12667
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huish, Robert
+    aliases:
+    - Huish, R. (Robert)
+    - Blue, A.
+    birthdate: 1777
+    deathdate: 1850
+    gutenberg_agent_id: '4486'
+    url: http://www.gutenberg.org/2009/agents/4486
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, West -- Discovery and exploration'
+- !lcsh 'Lander, John, 1807-1839'
+- !lcc 'DT'
+- !lcsh 'Lander, Richard, 1804-1834'
+- !lcsh 'Niger River'
+- GITenberg
+title: "Travels of Richard and John Lander into the interior of Africa, for the discovery\
+  \ of the course and termination of the Niger\r\nFrom unpublished documents in the\
+  \ possession of the late Capt. John William Barber Fullerton ... with a prefatory\
+  \ analysis of the previous travels of Park, Denham, Clapperton, Adams, Lyon, Ritchie,\
+  \ &c. into the hitherto unexplored countries of Africa"
+url: http://www.gutenberg.org/ebooks/12667
