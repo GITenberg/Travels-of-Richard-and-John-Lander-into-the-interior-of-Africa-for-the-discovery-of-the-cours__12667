@@ -1,5 +1,8 @@
 _repo: Travels-of-Richard-and-John-Lander-into-the-interior-of-Africa-for-the-discovery-of-the-cours__12667
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Huish, Robert
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '4486'
     url: http://www.gutenberg.org/2009/agents/4486
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12667#Travels-of-Richard-and-John-Lander-into-the-interior-of-Africa-for-the-discovery-of-the-cours_
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
